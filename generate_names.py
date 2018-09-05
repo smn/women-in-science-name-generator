@@ -5,7 +5,7 @@ import unicodedata
 import csv
 import sys
 
-with open('scientists.json', 'r') as fp:
+with open(sys.argv[1], 'r') as fp:
     scientists = json.load(fp)
 
 writer = csv.writer(sys.stdout)
