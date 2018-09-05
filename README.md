@@ -1,6 +1,6 @@
 # Women in Science
 
-Pulls the list of women in science in the 20th centry from Wikipedia and
+Pulls the [List of female scientists in the 20th century](https://en.wikipedia.org/wiki/List_of_female_scientists_in_the_20th_century) from Wikipedia and
 generates a JSON file with their name and a 1 line description of their work.
 
 To fetch the names and write the JSON file:
